@@ -3,3 +3,8 @@ src/logs/train/events.out.tfevents.1728528923.littlebug.328329.1.v2
 src/logs/autoencoder/events.out.tfevents.1728532932.littlebug.346565.2.v2
 events.out*
 *.png
+src/*.png
+src/Calinski score.png
+src/ReconstructionLoss.png
+src/Tnse-km-n1.png
+src/Tnse-km-n4.png
